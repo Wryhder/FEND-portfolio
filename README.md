@@ -6,4 +6,4 @@
 - Implement semantic markup and styles to achieve the correct visual and structural result.
 
 
-[Visit page](https://wryhder.github.io/FEND-Portfolio/)
+[Visit page](https://wryhder.github.io/FEND-portfolio/)
